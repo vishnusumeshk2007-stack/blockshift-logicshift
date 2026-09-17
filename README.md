@@ -6,6 +6,10 @@ A modern, interactive developer portfolio built to showcase projects, technical 
 
 The portfolio combines a clean developer-focused interface with interactive UI elements, project showcases, terminal-inspired components, and a distinctive visual identity.
 
+## 🌐 Live Demo
+
+[Visit the Live Website](https://vishnu-logicshift-blockshift.netlify.app/)
+
 ## ✨ Features
 
 * Modern responsive portfolio interface
